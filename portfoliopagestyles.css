@@ -1,0 +1,12 @@
+/* tag selector */
+li {font-family: times; font-size: 125%} 
+p {font-family: times; font-style: italic}
+/* id selector */
+#first {
+	color: red;
+}
+
+/* class selector */
+list-style: class{color: blue}
+	color: blue;
+}
