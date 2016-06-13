@@ -1,12 +1,15 @@
 /* tag selector */
+<style>
+#title {
+	background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+</style>
+
 li {font-family: times; font-size: 125%} 
 p {font-family: times; font-style: italic}
-/* id selector */
-#first {
-	color: red;
-}
+h2 {color:#2196F3;}
+ img: {height: 50px; width: 120px} 
 
-/* class selector */
-list-style: class{color: blue}
-	color: blue;
-}
